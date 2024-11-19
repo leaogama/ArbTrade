@@ -23,5 +23,5 @@ ArbTrade é um bot de arbitragem de criptomoedas que utiliza a biblioteca **ccxt
 
 1. Clone este repositório ou baixe os arquivos compactados:
    ```bash
-   git clone https://github.com/SEU_USUARIO/ArbTrade.git
+   git clone https://github.com/leaogama/ArbTrade.git
    cd ArbTrade
